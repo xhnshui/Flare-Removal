@@ -24,7 +24,7 @@ Visual comparison of our SGLFR-Net and glow and reflection flare removal SOTA co
 
 Quantitative comparison of our SGLFR-Net with eight methods for joint removal of glow and reflection flare fields on NewSynDatasets.
 
-![](pic/NewSynDatasets_Metric.png)
+![](pic/NewSynDataset_Metric.png)
 
 ### Reflective Flare Removal Task
 
