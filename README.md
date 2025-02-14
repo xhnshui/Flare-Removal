@@ -8,11 +8,11 @@ Yuwen He，Wei Wang，Wanyu Wu，Kui Jiang
 
 Visual comparison of our SGLFR-Net and glow and reflection flare removal SOTA combinations in OurSynDatasets and real world datasets. Notation: (method1)→(method2).
 
-![Jointtaskpng](file://C:\Users\京东\Desktop\AAAI最终版\最终版!!!\Joint_task.png?msec=1739549488636)
+![Jointtaskpng](pic/Joint_task.png)
 
 Quantitative comparison of our SGLFR-Net with eight methods for joint removal of glow and reflection flare fields on OurSynDatasets.
 
-![](file://C:\Users\京东\AppData\Roaming\marktext\images\2024-12-19-16-17-41-image.png?msec=1739549488623)
+![Joint_task_metric](pic/OurSynDatasets.png)
 
 #### NewSynDatasets
 
@@ -20,11 +20,11 @@ Due to the lack of paired joint flare datasets, we generated a new joint flare d
 
 Visual comparison of our SGLFR-Net and glow and reflection flare removal SOTA combinations in NewSynDatasets. Notation: (method1)→(method2).
 
-![NewSynDatasetspng](file://C:\Users\京东\Downloads\NewSynDatasets.png?msec=1739549488634)
+![NewSynDatasetspng](pic/NewSynDatasets.png)
 
 Quantitative comparison of our SGLFR-Net with eight methods for joint removal of glow and reflection flare fields on NewSynDatasets.
 
-![](file://C:\Users\京东\AppData\Roaming\marktext\images\2025-02-13-00-35-19-image.png?msec=1739549488624)
+![](pic/NewSynDatasets_Metric.png)
 
 ### Reflective Flare Removal Task
 
