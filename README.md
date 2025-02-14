@@ -30,21 +30,21 @@ Quantitative comparison of our SGLFR-Net with eight methods for joint removal of
 
 Visual comparison of individual reflection removal task with SOTAs on BracketFlare Datasets and real world captured images.
 
-![Reflectivetaskpng](file://C:\Users\京东\Desktop\AAAI最终版\最终版!!!\Reflective_task.png?msec=1739549488631)
+![Reflectivetaskpng](pic/Reflective_task.png)
 
 Comparisons between our approach and reflection removal methods on BracketFlare dataset.
 
-![](file://C:\Users\京东\AppData\Roaming\marktext\images\2024-12-16-22-06-59-image.png?msec=1739549488613)
+![](pic/Reflective_metric.png)
 
 ### Glow Suppression Task
 
 Our visual comparison on individual glow suppression task with SOTAs on ECCV2022 datasets and real world captured nighttime glows.
 
-![glowTaskpng](file://C:\Users\京东\Desktop\AAAI最终版\最终版!!!\glow_Task.png?msec=1739549488633)
+![glowTaskpng](pic/glow_Task.png)
 
 Due to the lack of real glow pairing images at night, we used the dataset and glow generation method provided by (b) to synthesize pairing images to validate the effectiveness of our PSFR-Net.
 
-![](file://C:\Users\京东\AppData\Roaming\marktext\images\2024-12-16-22-20-47-image.png?msec=1739549488613)
+![](pic/glow_metric.png)
 
 **Notation:**
 
