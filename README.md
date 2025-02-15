@@ -1,6 +1,6 @@
 ## Disentangle Nighttime Lens Flares: Self-supervised Generation-based Lens Flare Removal
 
-| [**Paper**](https://example.com) | [**Supplementary Material**](https://example.com) |Accepted by AAAI2025
+| [**Paper**]() | [**Supplementary Material**](AAAI_Supplementary_Material) |Accepted by AAAI2025
 
 Yuwen He，Wei Wang，Wanyu Wu，Kui Jiang
 
